@@ -166,3 +166,5 @@ Security concerns should be reported privately to the project owner.
 ---
 
 © 2026 Freeman Ipumbu. Shared for portfolio evaluation; no operational-use licence is granted.
+
+<p align="center"><strong>A Digital Experience by <a href="https://www.solarspin-namibia.xyz/">SolarSpin Technologies</a>.</strong></p>
